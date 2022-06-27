@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+#registerForm{
+	width: 50%;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+	
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #E9E8E8;
+  color: white;
+  text-align: center;
+}
+#head {
+position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
